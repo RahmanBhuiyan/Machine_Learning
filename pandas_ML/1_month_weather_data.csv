@@ -1,0 +1,12 @@
+day,city,temperature,wndspeed,event
+01/01/17,new york,32,6,Rain
+01/02/17,new york,34,7,sunny
+01/01/17,new york,32,6,Rain
+01/03/17,new york,28,12,Fog
+01/01/17,new york,32,6,Rain
+01/03/17,mumbai,45,9,Fog
+01/03/17,mumbai,12,15,sunny
+01/01/17,new york,32,6,Rain
+01/03/17,paris,9,20,Fog
+01/03/17,paris,18,8,Rain
+01/01/17,new york,32,6,Rain
