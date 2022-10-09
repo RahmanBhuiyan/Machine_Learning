@@ -1,0 +1,16 @@
+Project Name :RFID Based Attendance System
+COMPONENTS AND SUPPLIES:
+	1.ATMEGA8 Microcontroller
+	2.RFID Reader
+	3.RFID Tags
+	4.LCD display
+ABOUT THIS PROJECT
+OBJECTIVES;
+	1.Display the current time and date on the LCD along with an option 		for menu button.
+	2.Save the arrival and leaving time details of a students in the 		EEPPROM of arduino.
+	3.Calculate & store the total class hours of each students and 		provide options in the menu for retrieving it.
+	4.Provide an option for clearing data which can access only by the 		admin using his ID.
+
+INTRODUCTION:
+In this project, we are talking about an automated system that RFID based Attendance System.
+Attendance in colleges is generally paper based which may sometimes cause errors. Taking attendance manually consumes more time. So, the proposed attendance system uses RFID technology to take attendance.In this system, each student is issued an RFID tag. Controlling unit is in the institute. Whenever the card is placed near the reader, it will take the attendance.
